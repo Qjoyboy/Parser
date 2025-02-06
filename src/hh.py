@@ -4,26 +4,33 @@ import requests
 
 class HeadHunter:
 
-    def __init__(self, per_page=50, page=0):
+    def __init__(self, per_page=20, page=0):
         self.per_page = per_page
         self.page = page
 
 
     _base_url = 'https://api.hh.ru/vacancies'
-    def get_vacancies(self):
-        params = {
-            'per_page': self.per_page,
-            'page': self.page
-        }
+    def get_vacancies(self, count=2):
+        vacancies = []
 
-        response = requests.get(self._base_url, params=params)
+        for page in range(count):
+            params = {
+                'per_page': self.per_page,
+                'page': self.page
+            }
+            response = requests.get(self._base_url, params=params)
 
-        if response.status_code == 200:
-            res = response.json()['items']
-        return res
+            if response.status_code != 200:
+                print(f'Ошибка {response.status_code}')
+                break
 
-    def organize_vacancies(self):
-        res = self.get_vacancies()
+            res = response.json().get('items',[])
+            vacancies.extend(res)
+
+        return vacancies
+
+    def organize_vacancies(self, got_vac):
+        res = got_vac
         vacancies = []
         for i in range(len(res)):
             salary = res[i]['salary']
@@ -56,7 +63,8 @@ class HeadHunter:
         with open('../saved_vacancies.json', 'w', encoding='utf-8') as file_obj:
             json.dump(vacancies, file_obj, indent=4, ensure_ascii=False)
 
-request = HeadHunter()
-x = request.organize_vacancies()
-result = request.save_to_json(x)
+req = HeadHunter()
+x1 = req.get_vacancies(2)
+x = req.organize_vacancies(x1)
+result = req.save_to_json(x)
 print(result)
