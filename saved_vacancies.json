@@ -18,13 +18,31 @@
         "url": "https://api.hh.ru/vacancies/116633049?host=hh.ru"
     },
     {
-        "name": "Менеджер поддержки",
+        "name": "Бухгалтер по реализации в компанию по продаже металла (Турксибский район)",
+        "salary_from": 350000,
+        "salary_to": null,
+        "area": "Алматы",
+        "employer": "КАСПИАН ТРЕЙД АЛМАТЫ",
+        "description": "Реализация металла (тмц, ос, услуги) с в...",
+        "url": "https://api.hh.ru/vacancies/115372602?host=hh.ru"
+    },
+    {
+        "name": "Виртуальный помощник / Администратор / Сотрудник службы поддержки",
+        "salary_from": 1000,
+        "salary_to": null,
+        "area": "Алматы",
+        "employer": "American Security Screens Dallas",
+        "description": "Деловая переписка. Электронная почта. Те...",
+        "url": "https://api.hh.ru/vacancies/116113394?host=hh.ru"
+    },
+    {
+        "name": "Сотрудник в зоомагазин",
         "salary_from": null,
         "salary_to": null,
-        "area": "Ростов-на-Дону",
-        "employer": "WILDBERRIES",
-        "description": "Внимательно изучать и отвечать на входящ...",
-        "url": "https://api.hh.ru/vacancies/116476870?host=hh.ru"
+        "area": "Алматы",
+        "employer": "Константин С.А.",
+        "description": "None...",
+        "url": "https://api.hh.ru/vacancies/116527385?host=hh.ru"
     },
     {
         "name": "Охранник",
@@ -36,15 +54,6 @@
         "url": "https://api.hh.ru/vacancies/116806560?host=hh.ru"
     },
     {
-        "name": "Бухгалтер по реализации в компанию по продаже металла (Турксибский район)",
-        "salary_from": 350000,
-        "salary_to": null,
-        "area": "Алматы",
-        "employer": "КАСПИАН ТРЕЙД АЛМАТЫ",
-        "description": "Реализация металла (тмц, ос, услуги) с в...",
-        "url": "https://api.hh.ru/vacancies/115372602?host=hh.ru"
-    },
-    {
         "name": "Кассир в Корейское кафе",
         "salary_from": 12000,
         "salary_to": 16000,
@@ -54,31 +63,13 @@
         "url": "https://api.hh.ru/vacancies/116454750?host=hh.ru"
     },
     {
-        "name": "Intern",
+        "name": "Семейный водитель",
         "salary_from": null,
-        "salary_to": null,
-        "area": "Ташкент",
-        "employer": "КДБ Банк Узбекистан",
-        "description": "Responsibilities may include assisting w...",
-        "url": "https://api.hh.ru/vacancies/116778961?host=hh.ru"
-    },
-    {
-        "name": "Менеджер по работе с клиентами",
-        "salary_from": null,
-        "salary_to": 300000,
+        "salary_to": 450000,
         "area": "Алматы",
-        "employer": "“AFTeam”",
-        "description": "Оперативная обработка входящих звонков, ...",
-        "url": "https://api.hh.ru/vacancies/115608129?host=hh.ru"
-    },
-    {
-        "name": "Водитель на служебный легковой автомобиль",
-        "salary_from": null,
-        "salary_to": null,
-        "area": "Алматы",
-        "employer": "ГМК Корунд",
-        "description": "Забор документов, ТМЦ. Выполнение поруче...",
-        "url": "https://api.hh.ru/vacancies/116797829?host=hh.ru"
+        "employer": "SANTRADE",
+        "description": "None...",
+        "url": "https://api.hh.ru/vacancies/116902153?host=hh.ru"
     },
     {
         "name": "Администратор на Карабатан",
@@ -90,51 +81,6 @@
         "url": "https://api.hh.ru/vacancies/116703205?host=hh.ru"
     },
     {
-        "name": "Frontend-разработчик",
-        "salary_from": null,
-        "salary_to": null,
-        "area": "Астана",
-        "employer": "KazDevLab",
-        "description": "Разработка web-приложений и сервисов (ра...",
-        "url": "https://api.hh.ru/vacancies/116782308?host=hh.ru"
-    },
-    {
-        "name": "Персональный водитель руководителя",
-        "salary_from": 150000,
-        "salary_to": 150000,
-        "area": "Москва",
-        "employer": "ГРАН-ПРИ",
-        "description": "Обеспечение безопасной и комфортной пере...",
-        "url": "https://api.hh.ru/vacancies/116857066?host=hh.ru"
-    },
-    {
-        "name": "Администратор-кассир в компьютерный клуб",
-        "salary_from": 200000,
-        "salary_to": 220000,
-        "area": "Астана",
-        "employer": "Жабагина М.А.",
-        "description": "Предоставлять качественный сервис клиент...",
-        "url": "https://api.hh.ru/vacancies/116061811?host=hh.ru"
-    },
-    {
-        "name": "Специалист по документообороту",
-        "salary_from": 1200,
-        "salary_to": 1500,
-        "area": "Могилев",
-        "employer": "Метагарант Сталь",
-        "description": "Оформление и проверка документов для отг...",
-        "url": "https://api.hh.ru/vacancies/116811890?host=hh.ru"
-    },
-    {
-        "name": "Backend-разработчик (Java, Spring Boot)",
-        "salary_from": null,
-        "salary_to": null,
-        "area": "Ташкент",
-        "employer": "Consort Group",
-        "description": "Разработка и поддержка микросервисной ар...",
-        "url": "https://api.hh.ru/vacancies/116749904?host=hh.ru"
-    },
-    {
         "name": "Менеджер отдела продаж по оптическим линиям связи, СИП Арматуре",
         "salary_from": 200000,
         "salary_to": 1200000,
@@ -144,112 +90,13 @@
         "url": "https://api.hh.ru/vacancies/115360209?host=hh.ru"
     },
     {
-        "name": "Корпоративный экзорцист",
-        "salary_from": null,
-        "salary_to": null,
-        "area": "Санкт-Петербург",
-        "employer": "ITGLOBAL.COM",
-        "description": "Демоны неправильных методических подходо...",
-        "url": "https://api.hh.ru/vacancies/116715492?host=hh.ru"
-    },
-    {
-        "name": "Водитель-помощник",
-        "salary_from": 400000,
-        "salary_to": 450000,
-        "area": "Алматы",
-        "employer": "SergekGroup",
-        "description": "Своевременную или даже заблаговременную ...",
-        "url": "https://api.hh.ru/vacancies/116546986?host=hh.ru"
-    },
-    {
-        "name": "Менеджер по продажам в школу английского языка",
-        "salary_from": 200000,
-        "salary_to": null,
-        "area": "Астана",
-        "employer": "Языковой центр Grand Luxe",
-        "description": "Помощь в поступлении за рубеж. Визовые и...",
-        "url": "https://api.hh.ru/vacancies/116175487?host=hh.ru"
-    },
-    {
-        "name": "Frontend-разработчик",
-        "salary_from": null,
-        "salary_to": null,
-        "area": "Ташкент",
-        "employer": "East-Metprokat",
-        "description": "Поддержка и доработка существующих проек...",
-        "url": "https://api.hh.ru/vacancies/116682946?host=hh.ru"
-    },
-    {
-        "name": "Менеджер по логистике",
-        "salary_from": 150000,
-        "salary_to": 500000,
-        "area": "Алматы",
-        "employer": "GlobaLogs",
-        "description": "Работа с клиентами и поиск новых заказчи...",
-        "url": "https://api.hh.ru/vacancies/115760953?host=hh.ru"
-    },
-    {
-        "name": "Дегустатор настоек в сеть нео-рюмочных",
-        "salary_from": 250000,
-        "salary_to": 350000,
-        "area": "Москва",
-        "employer": "Правила гостеприимства",
-        "description": "Дегустация новых видов настоек : вкусовы...",
-        "url": "https://api.hh.ru/vacancies/116633049?host=hh.ru"
-    },
-    {
-        "name": "Менеджер поддержки",
-        "salary_from": null,
-        "salary_to": null,
-        "area": "Ростов-на-Дону",
-        "employer": "WILDBERRIES",
-        "description": "Внимательно изучать и отвечать на входящ...",
-        "url": "https://api.hh.ru/vacancies/116476870?host=hh.ru"
-    },
-    {
-        "name": "Охранник",
-        "salary_from": 300000,
-        "salary_to": null,
-        "area": "Алматы",
-        "employer": "ARLINE",
-        "description": "Обеспечивать контроль прохода на террито...",
-        "url": "https://api.hh.ru/vacancies/116806560?host=hh.ru"
-    },
-    {
-        "name": "Бухгалтер по реализации в компанию по продаже металла (Турксибский район)",
-        "salary_from": 350000,
-        "salary_to": null,
-        "area": "Алматы",
-        "employer": "КАСПИАН ТРЕЙД АЛМАТЫ",
-        "description": "Реализация металла (тмц, ос, услуги) с в...",
-        "url": "https://api.hh.ru/vacancies/115372602?host=hh.ru"
-    },
-    {
-        "name": "Кассир в Корейское кафе",
-        "salary_from": 12000,
-        "salary_to": 16000,
-        "area": "Алматы",
-        "employer": "Kimchi food",
-        "description": "Работа с Iiko. Открытие/закрытие кассово...",
-        "url": "https://api.hh.ru/vacancies/116454750?host=hh.ru"
-    },
-    {
-        "name": "Intern",
-        "salary_from": null,
-        "salary_to": null,
-        "area": "Ташкент",
-        "employer": "КДБ Банк Узбекистан",
-        "description": "Responsibilities may include assisting w...",
-        "url": "https://api.hh.ru/vacancies/116778961?host=hh.ru"
-    },
-    {
-        "name": "Менеджер по работе с клиентами",
-        "salary_from": null,
-        "salary_to": 300000,
-        "area": "Алматы",
-        "employer": "“AFTeam”",
-        "description": "Оперативная обработка входящих звонков, ...",
-        "url": "https://api.hh.ru/vacancies/115608129?host=hh.ru"
+        "name": "Администратор",
+        "salary_from": 1400,
+        "salary_to": 1600,
+        "area": "Могилев",
+        "employer": "Афрам",
+        "description": "Сборка заказов. Следить за правильностью...",
+        "url": "https://api.hh.ru/vacancies/116886000?host=hh.ru"
     },
     {
         "name": "Водитель на служебный легковой автомобиль",
@@ -261,33 +108,6 @@
         "url": "https://api.hh.ru/vacancies/116797829?host=hh.ru"
     },
     {
-        "name": "Администратор на Карабатан",
-        "salary_from": 400000,
-        "salary_to": 450000,
-        "area": "Атырау",
-        "employer": "АРНА United Company",
-        "description": "1.Осуществляет работу по эффективному и ...",
-        "url": "https://api.hh.ru/vacancies/116703205?host=hh.ru"
-    },
-    {
-        "name": "Frontend-разработчик",
-        "salary_from": null,
-        "salary_to": null,
-        "area": "Астана",
-        "employer": "KazDevLab",
-        "description": "Разработка web-приложений и сервисов (ра...",
-        "url": "https://api.hh.ru/vacancies/116782308?host=hh.ru"
-    },
-    {
-        "name": "Персональный водитель руководителя",
-        "salary_from": 150000,
-        "salary_to": 150000,
-        "area": "Москва",
-        "employer": "ГРАН-ПРИ",
-        "description": "Обеспечение безопасной и комфортной пере...",
-        "url": "https://api.hh.ru/vacancies/116857066?host=hh.ru"
-    },
-    {
         "name": "Администратор-кассир в компьютерный клуб",
         "salary_from": 200000,
         "salary_to": 220000,
@@ -295,123 +115,6 @@
         "employer": "Жабагина М.А.",
         "description": "Предоставлять качественный сервис клиент...",
         "url": "https://api.hh.ru/vacancies/116061811?host=hh.ru"
-    },
-    {
-        "name": "Специалист по документообороту",
-        "salary_from": 1200,
-        "salary_to": 1500,
-        "area": "Могилев",
-        "employer": "Метагарант Сталь",
-        "description": "Оформление и проверка документов для отг...",
-        "url": "https://api.hh.ru/vacancies/116811890?host=hh.ru"
-    },
-    {
-        "name": "Backend-разработчик (Java, Spring Boot)",
-        "salary_from": null,
-        "salary_to": null,
-        "area": "Ташкент",
-        "employer": "Consort Group",
-        "description": "Разработка и поддержка микросервисной ар...",
-        "url": "https://api.hh.ru/vacancies/116749904?host=hh.ru"
-    },
-    {
-        "name": "Менеджер отдела продаж по оптическим линиям связи, СИП Арматуре",
-        "salary_from": 200000,
-        "salary_to": 1200000,
-        "area": "Алматы",
-        "employer": "GSL-ALMATY",
-        "description": "Активные продажи, работа по поиску и при...",
-        "url": "https://api.hh.ru/vacancies/115360209?host=hh.ru"
-    },
-    {
-        "name": "Корпоративный экзорцист",
-        "salary_from": null,
-        "salary_to": null,
-        "area": "Санкт-Петербург",
-        "employer": "ITGLOBAL.COM",
-        "description": "Демоны неправильных методических подходо...",
-        "url": "https://api.hh.ru/vacancies/116715492?host=hh.ru"
-    },
-    {
-        "name": "Водитель-помощник",
-        "salary_from": 400000,
-        "salary_to": 450000,
-        "area": "Алматы",
-        "employer": "SergekGroup",
-        "description": "Своевременную или даже заблаговременную ...",
-        "url": "https://api.hh.ru/vacancies/116546986?host=hh.ru"
-    },
-    {
-        "name": "Менеджер по продажам в школу английского языка",
-        "salary_from": 200000,
-        "salary_to": null,
-        "area": "Астана",
-        "employer": "Языковой центр Grand Luxe",
-        "description": "Помощь в поступлении за рубеж. Визовые и...",
-        "url": "https://api.hh.ru/vacancies/116175487?host=hh.ru"
-    },
-    {
-        "name": "Frontend-разработчик",
-        "salary_from": null,
-        "salary_to": null,
-        "area": "Ташкент",
-        "employer": "East-Metprokat",
-        "description": "Поддержка и доработка существующих проек...",
-        "url": "https://api.hh.ru/vacancies/116682946?host=hh.ru"
-    },
-    {
-        "name": "Менеджер по логистике",
-        "salary_from": 150000,
-        "salary_to": 500000,
-        "area": "Алматы",
-        "employer": "GlobaLogs",
-        "description": "Работа с клиентами и поиск новых заказчи...",
-        "url": "https://api.hh.ru/vacancies/115760953?host=hh.ru"
-    },
-    {
-        "name": "Дегустатор настоек в сеть нео-рюмочных",
-        "salary_from": 250000,
-        "salary_to": 350000,
-        "area": "Москва",
-        "employer": "Правила гостеприимства",
-        "description": "Дегустация новых видов настоек : вкусовы...",
-        "url": "https://api.hh.ru/vacancies/116633049?host=hh.ru"
-    },
-    {
-        "name": "Менеджер поддержки",
-        "salary_from": null,
-        "salary_to": null,
-        "area": "Ростов-на-Дону",
-        "employer": "WILDBERRIES",
-        "description": "Внимательно изучать и отвечать на входящ...",
-        "url": "https://api.hh.ru/vacancies/116476870?host=hh.ru"
-    },
-    {
-        "name": "Охранник",
-        "salary_from": 300000,
-        "salary_to": null,
-        "area": "Алматы",
-        "employer": "ARLINE",
-        "description": "Обеспечивать контроль прохода на террито...",
-        "url": "https://api.hh.ru/vacancies/116806560?host=hh.ru"
-    },
-    {
-        "name": "Бухгалтер по реализации в компанию по продаже металла (Турксибский район)",
-        "salary_from": 350000,
-        "salary_to": null,
-        "area": "Алматы",
-        "employer": "КАСПИАН ТРЕЙД АЛМАТЫ",
-        "description": "Реализация металла (тмц, ос, услуги) с в...",
-        "url": "https://api.hh.ru/vacancies/115372602?host=hh.ru"
-    },
-    {
-        "name": "Кассир в Корейское кафе",
-        "salary_from": 12000,
-        "salary_to": 16000,
-        "area": "Алматы",
-        "employer": "Kimchi food",
-        "description": "Работа с Iiko. Открытие/закрытие кассово...",
-        "url": "https://api.hh.ru/vacancies/116454750?host=hh.ru"
     },
     {
         "name": "Intern",
@@ -423,85 +126,13 @@
         "url": "https://api.hh.ru/vacancies/116778961?host=hh.ru"
     },
     {
-        "name": "Менеджер по работе с клиентами",
-        "salary_from": null,
-        "salary_to": 300000,
-        "area": "Алматы",
-        "employer": "“AFTeam”",
-        "description": "Оперативная обработка входящих звонков, ...",
-        "url": "https://api.hh.ru/vacancies/115608129?host=hh.ru"
-    },
-    {
-        "name": "Водитель на служебный легковой автомобиль",
-        "salary_from": null,
-        "salary_to": null,
-        "area": "Алматы",
-        "employer": "ГМК Корунд",
-        "description": "Забор документов, ТМЦ. Выполнение поруче...",
-        "url": "https://api.hh.ru/vacancies/116797829?host=hh.ru"
-    },
-    {
-        "name": "Администратор на Карабатан",
-        "salary_from": 400000,
-        "salary_to": 450000,
-        "area": "Атырау",
-        "employer": "АРНА United Company",
-        "description": "1.Осуществляет работу по эффективному и ...",
-        "url": "https://api.hh.ru/vacancies/116703205?host=hh.ru"
-    },
-    {
-        "name": "Frontend-разработчик",
-        "salary_from": null,
-        "salary_to": null,
-        "area": "Астана",
-        "employer": "KazDevLab",
-        "description": "Разработка web-приложений и сервисов (ра...",
-        "url": "https://api.hh.ru/vacancies/116782308?host=hh.ru"
-    },
-    {
-        "name": "Персональный водитель руководителя",
-        "salary_from": 150000,
-        "salary_to": 150000,
+        "name": "Начинающий специалист (тестирование игр и приложений)",
+        "salary_from": 45000,
+        "salary_to": 90000,
         "area": "Москва",
-        "employer": "ГРАН-ПРИ",
-        "description": "Обеспечение безопасной и комфортной пере...",
-        "url": "https://api.hh.ru/vacancies/116857066?host=hh.ru"
-    },
-    {
-        "name": "Администратор-кассир в компьютерный клуб",
-        "salary_from": 200000,
-        "salary_to": 220000,
-        "area": "Астана",
-        "employer": "Жабагина М.А.",
-        "description": "Предоставлять качественный сервис клиент...",
-        "url": "https://api.hh.ru/vacancies/116061811?host=hh.ru"
-    },
-    {
-        "name": "Специалист по документообороту",
-        "salary_from": 1200,
-        "salary_to": 1500,
-        "area": "Могилев",
-        "employer": "Метагарант Сталь",
-        "description": "Оформление и проверка документов для отг...",
-        "url": "https://api.hh.ru/vacancies/116811890?host=hh.ru"
-    },
-    {
-        "name": "Backend-разработчик (Java, Spring Boot)",
-        "salary_from": null,
-        "salary_to": null,
-        "area": "Ташкент",
-        "employer": "Consort Group",
-        "description": "Разработка и поддержка микросервисной ар...",
-        "url": "https://api.hh.ru/vacancies/116749904?host=hh.ru"
-    },
-    {
-        "name": "Менеджер отдела продаж по оптическим линиям связи, СИП Арматуре",
-        "salary_from": 200000,
-        "salary_to": 1200000,
-        "area": "Алматы",
-        "employer": "GSL-ALMATY",
-        "description": "Активные продажи, работа по поиску и при...",
-        "url": "https://api.hh.ru/vacancies/115360209?host=hh.ru"
+        "employer": "Работа-Про",
+        "description": "Тестирование игр и веб-приложений. Созда...",
+        "url": "https://api.hh.ru/vacancies/115993072?host=hh.ru"
     },
     {
         "name": "Корпоративный экзорцист",
@@ -513,13 +144,22 @@
         "url": "https://api.hh.ru/vacancies/116715492?host=hh.ru"
     },
     {
-        "name": "Водитель-помощник",
-        "salary_from": 400000,
-        "salary_to": 450000,
-        "area": "Алматы",
-        "employer": "SergekGroup",
-        "description": "Своевременную или даже заблаговременную ...",
-        "url": "https://api.hh.ru/vacancies/116546986?host=hh.ru"
+        "name": "Frontend-разработчик",
+        "salary_from": null,
+        "salary_to": null,
+        "area": "Астана",
+        "employer": "KazDevLab",
+        "description": "Разработка web-приложений и сервисов (ра...",
+        "url": "https://api.hh.ru/vacancies/116782308?host=hh.ru"
+    },
+    {
+        "name": "Администратор",
+        "salary_from": 180000,
+        "salary_to": 250000,
+        "area": "Астана",
+        "employer": "4BRO",
+        "description": "Встреча и обслуживание клиентов барбершо...",
+        "url": "https://api.hh.ru/vacancies/116747734?host=hh.ru"
     },
     {
         "name": "Менеджер по продажам в школу английского языка",
@@ -531,12 +171,12 @@
         "url": "https://api.hh.ru/vacancies/116175487?host=hh.ru"
     },
     {
-        "name": "Frontend-разработчик",
+        "name": "Backend-разработчик (Java, Spring Boot)",
         "salary_from": null,
         "salary_to": null,
         "area": "Ташкент",
-        "employer": "East-Metprokat",
-        "description": "Поддержка и доработка существующих проек...",
-        "url": "https://api.hh.ru/vacancies/116682946?host=hh.ru"
+        "employer": "Consort Group",
+        "description": "Разработка и поддержка микросервисной ар...",
+        "url": "https://api.hh.ru/vacancies/116749904?host=hh.ru"
     }
 ]

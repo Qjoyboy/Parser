@@ -8,13 +8,13 @@ class HeadHunter:
         self.per_page = per_page
         self.page = page
 
-
     _base_url = 'https://api.hh.ru/vacancies'
-    def get_vacancies(self, count=2):
+    def get_vacancies(self, count=2, keyword=''):
         vacancies = []
 
         for page in range(count):
             params = {
+                'text': keyword,
                 'per_page': self.per_page,
                 'page': self.page
             }
@@ -60,11 +60,11 @@ class HeadHunter:
 
     def save_to_json(self, vacancies):
         self.vacancies = vacancies
-        with open('../saved_vacancies.json', 'w', encoding='utf-8') as file_obj:
+        with open('saved_vacancies.json', 'w', encoding='utf-8') as file_obj:
             json.dump(vacancies, file_obj, indent=4, ensure_ascii=False)
 
 req = HeadHunter()
-x1 = req.get_vacancies(2)
+x1 = req.get_vacancies(1, 'python')
 x = req.organize_vacancies(x1)
 result = req.save_to_json(x)
-print(result)
+

@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Стажер Python Developer",
+        "salary_from": null,
+        "salary_to": null,
+        "area": "Ташкент",
+        "employer": "DEEPEN",
+        "description": "Software Development: Design, develop, a...",
+        "url": "https://api.hh.ru/vacancies/116876598?host=hh.ru"
+    },
+    {
+        "name": "Аналитик данных/Продуктовый аналитик (Python)",
+        "salary_from": null,
+        "salary_to": null,
+        "area": "Россия",
+        "employer": "Яндекс",
+        "description": "None...",
+        "url": "https://api.hh.ru/vacancies/116796595?host=hh.ru"
+    },
+    {
+        "name": "Стажер Data Scientist",
+        "salary_from": 20000,
+        "salary_to": 20000,
+        "area": "Новосибирск",
+        "employer": "Data Acquisition",
+        "description": "Реализация проектов из сфер CV, NLP, пос...",
+        "url": "https://api.hh.ru/vacancies/116880559?host=hh.ru"
+    },
+    {
+        "name": "Junior Java Developer",
+        "salary_from": 120000,
+        "salary_to": 150000,
+        "area": "Москва",
+        "employer": "Дартс рекрутинг сервисез",
+        "description": "Разработка и поддержка серверной части с...",
+        "url": "https://api.hh.ru/vacancies/116857899?host=hh.ru"
+    },
+    {
+        "name": "Junior python (django) разработчик",
+        "salary_from": 60000,
+        "salary_to": null,
+        "area": "Санкт-Петербург",
+        "employer": "ЮТФ",
+        "description": "Участие в различных проектах....",
+        "url": "https://api.hh.ru/vacancies/116902709?host=hh.ru"
+    },
+    {
+        "name": "QA инженер/Тестировщик",
+        "salary_from": 200000,
+        "salary_to": null,
+        "area": "Москва",
+        "employer": "Центр Информационных технологий Роскадастр-Инфотех Филиал Роскадастр",
+        "description": "Писать тест кейсы на основе ТЗ и постано...",
+        "url": "https://api.hh.ru/vacancies/116907826?host=hh.ru"
+    },
+    {
+        "name": "Junior Developer (стажер)",
+        "salary_from": 70000,
+        "salary_to": null,
+        "area": "Москва",
+        "employer": "NEXTLINE Лаборатория рекламы",
+        "description": "Участие в разработке программного обеспе...",
+        "url": "https://api.hh.ru/vacancies/116792570?host=hh.ru"
+    },
+    {
+        "name": "Junior Python-разработчик",
+        "salary_from": 130000,
+        "salary_to": 140000,
+        "area": "Москва",
+        "employer": "Sentium (ИП Пономаренко Никита Александрович)",
+        "description": "Сотрудничество с командой разработчиков ...",
+        "url": "https://api.hh.ru/vacancies/116814674?host=hh.ru"
+    },
+    {
+        "name": "Промоутер-консультант в школу программирования Sky Pro",
+        "salary_from": 40000,
+        "salary_to": 65000,
+        "area": "Хабаровск",
+        "employer": "​Школа дизайна ArtTech",
+        "description": "Разработка игр. -<highlighttext>Python</...",
+        "url": "https://api.hh.ru/vacancies/116920119?host=hh.ru"
+    },
+    {
+        "name": "QA-инженер",
+        "salary_from": null,
+        "salary_to": null,
+        "area": "Москва",
+        "employer": "OpenYard",
+        "description": "Работа в команде в роли full stack специ...",
+        "url": "https://api.hh.ru/vacancies/116858023?host=hh.ru"
+    },
+    {
+        "name": "QA инженер/Инженер по тестированию",
+        "salary_from": null,
+        "salary_to": null,
+        "area": "Москва",
+        "employer": "Нильсен",
+        "description": "Планирование и проведение ручного тестир...",
+        "url": "https://api.hh.ru/vacancies/116903960?host=hh.ru"
+    },
+    {
+        "name": "Дата аналитик",
+        "salary_from": null,
+        "salary_to": null,
+        "area": "Астана",
+        "employer": "Национальные информационные технологии",
+        "description": "Различные уровни витрин данных (ODS, DDS...",
+        "url": "https://api.hh.ru/vacancies/116781542?host=hh.ru"
+    },
+    {
+        "name": "Frontend developer/React разработчик",
+        "salary_from": null,
+        "salary_to": null,
+        "area": "Москва",
+        "employer": "Нильсен",
+        "description": "Разработка и поддержка пользовательских ...",
+        "url": "https://api.hh.ru/vacancies/116790402?host=hh.ru"
+    },
+    {
+        "name": "Тестировщик (IT-продуктов)",
+        "salary_from": null,
+        "salary_to": null,
+        "area": "Казань",
+        "employer": "Группа Компаний БРИО",
+        "description": "Проектированием и актуализацией планов и...",
+        "url": "https://api.hh.ru/vacancies/116892672?host=hh.ru"
+    },
+    {
+        "name": "Тестировщик (Web и Mobile)",
+        "salary_from": null,
+        "salary_to": null,
+        "area": "Казань",
+        "employer": "Татнефть Цифровые Технологии",
+        "description": "Тестирование WEB и мобильных приложений ...",
+        "url": "https://api.hh.ru/vacancies/116758085?host=hh.ru"
+    },
+    {
+        "name": "Стажер-разработчик",
+        "salary_from": null,
+        "salary_to": null,
+        "area": "Алматы",
+        "employer": "Prime Source",
+        "description": "Написание и отладка кода на Java и <high...",
+        "url": "https://api.hh.ru/vacancies/115575681?host=hh.ru"
+    },
+    {
+        "name": "Frontend-разработчик",
+        "salary_from": null,
+        "salary_to": null,
+        "area": "Санкт-Петербург",
+        "employer": "Фаст Софт",
+        "description": "Разработка FrontEnd для проектов. Code-R...",
+        "url": "https://api.hh.ru/vacancies/116857856?host=hh.ru"
+    },
+    {
+        "name": "QA Engineer",
+        "salary_from": null,
+        "salary_to": null,
+        "area": "Москва",
+        "employer": "XWAY",
+        "description": "XWAY — сертифицированное агентство по ра...",
+        "url": "https://api.hh.ru/vacancies/116814900?host=hh.ru"
+    },
+    {
+        "name": "Продуктовый аналитик (Junior)",
+        "salary_from": null,
+        "salary_to": 160000,
+        "area": "Москва",
+        "employer": "Кофемания",
+        "description": "Сбор, обработка и анализ данных для подд...",
+        "url": "https://api.hh.ru/vacancies/116746156?host=hh.ru"
+    },
+    {
+        "name": "Python Developer Middle - Senior",
+        "salary_from": null,
+        "salary_to": null,
+        "area": "Минск",
+        "employer": "Каспи Софтвер",
+        "description": "Участвовать в разработке архитектуры. Ра...",
+        "url": "https://api.hh.ru/vacancies/116792064?host=hh.ru"
+    }
+]
